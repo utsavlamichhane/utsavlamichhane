@@ -3,11 +3,11 @@
 Welcome to my GitHub page! I'm a dedicated researcher specializing in Microbiome Bioinformatics, currently pursuing my MS at the University of Georgia. My passion lies in harnessing computational techniques for predictive modeling in Next Generation Sequencing datasets.
 
 ## 🎓 Education
-- MS (ongoing) in Microbiome Bioinformatics, University of Georgia, Athens, GA, USA.
+- Ph.D.(ongoing) in Microbiome Bioinformatics, University of Georgia, Athens, GA, USA.
 - BVSc and AH (equivalent to DVM) from Agriculture and Forestry University, Rampur, Chitwan, Nepal.
 
 ## 🛠 Technical Skills
-- **Bioinformatics Tools**: QIIME2, Bioconductor
+- **Bioinformatics Tools**: RNA-Seq, QIIME2, Bioconductor
 - **Programming/Scripting**: Python, R, Bash
 - **Data Analysis**: Machine Learning, SQL, Statistical Analysis, TensorFlow
 - **High-Performance Computing**: Sapelo2 GACRC Cluster, AWS (EC2 and S3)
