@@ -1,6 +1,6 @@
 # Utsav Lamichhane
 
-Welcome to my GitHub page! I'm a dedicated researcher specializing in Microbiome Bioinformatics, currently pursuing my MS at the University of Georgia. My passion lies in harnessing computational techniques for predictive modeling in Next Generation Sequencing datasets.
+Welcome to my GitHub page! I'm a dedicated researcher specializing in Microbiome Bioinformatics, currently pursuing my PhD at the University of Georgia. My passion lies in harnessing computational techniques for predictive modeling in Next Generation Sequencing datasets.
 
 ## 🎓 Education
 - Ph.D.(ongoing) in Microbiome Bioinformatics, University of Georgia, Athens, GA, USA.
